@@ -28,11 +28,11 @@
 
 ![top5_prod.PNG](https://github.com/Praveeja-Sasidharan-Suni/Customer-Spending-Data-Analysis/blob/main/Images/top5_prod.PNG?raw=true)
 
-** Count of Male Customers in different age groups and educational categories.
+** Count of Male Customers in different age groups and educational categories. **
 
 ![M-age-education.PNG](https://github.com/Praveeja-Sasidharan-Suni/Customer-Spending-Data-Analysis/blob/main/Images/M-age-education.PNG?raw=true)
 
-** Count of Female Customers in different age groups and educational categories.
+** Count of Female Customers in different age groups and educational categories. **
 
 ![F-age-education.PNG](https://github.com/Praveeja-Sasidharan-Suni/Customer-Spending-Data-Analysis/blob/main/Images/F-age-education.PNG?raw=true)
 
