@@ -26,6 +26,7 @@
 ![education_cat.PNG](https://github.com/Praveeja-Sasidharan-Suni/Customer-Spending-Data-Analysis/blob/main/Images/education_cat.PNG?raw=true)
 
 ![top5_prod.PNG](https://github.com/Praveeja-Sasidharan-Suni/Customer-Spending-Data-Analysis/blob/main/Images/top5_prod.PNG?raw=true)
+![F-age-education.PNG](https://github.com/Praveeja-Sasidharan-Suni/Customer-Spending-Data-Analysis/blob/main/Images/F-age-education.PNG?raw=true)
 ![statistical-summary.PNG](https://github.com/Praveeja-Sasidharan-Suni/Customer-Spending-Data-Analysis/blob/main/Images/statistical-summary.PNG?raw=true)
 
 * Top 5 sold products are plotted and top 10 revenue generated products are also identified
