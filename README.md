@@ -39,8 +39,16 @@
 ## Summary
 
 Detailed data analysis is performed.The Marketing strategies would be to 
-give special offers to the less sold products,Target male customers more,Add some attractive free gifts or offers so that female customers also start buying more products,
-Target 26-35 years age group,Target people in “under-High” education category andTarget people who lived in their residence for just one year.
+add special coupons to the less sold products so that we fetch more customers.
+Add attractive offers so that female customers also start buying more products,along with the male customers.
+Target good campaign for all other age groups ,while maintaining the customer base of 26-35 years age group
+Target people more in other education categories along with “Under-High”
+Target people who are living in their residence for more than one year.
+Introduce VIP rewards and referral schemes
+Deliver coupons to  frequent customers.
+Advertise more on public platforms
+Keep the customers informed about the new stocks.
+
 
 
 
