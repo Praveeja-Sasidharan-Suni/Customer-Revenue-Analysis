@@ -26,6 +26,8 @@
 
 ![education_cat.PNG](https://github.com/Praveeja-Sasidharan-Suni/Customer-Spending-Data-Analysis/blob/main/Images/education_cat.PNG?raw=true)
 
+![age-revenue.PNG](https://github.com/Praveeja-Sasidharan-Suni/Customer-Spending-Data-Analysis/blob/main/Images/age-revenue.PNG?raw=true)
+
 ![top5_prod.PNG](https://github.com/Praveeja-Sasidharan-Suni/Customer-Spending-Data-Analysis/blob/main/Images/top5_prod.PNG?raw=true)
 
 **Count of Male Customers in different age groups and educational categories.** 
